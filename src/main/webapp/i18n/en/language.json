@@ -1,0 +1,11 @@
+{
+  "schoolManagementSystemApp": {
+    "Language": {
+      "null": "",
+      "FRENCH": "FRENCH",
+      "ENGLISH": "ENGLISH",
+      "SPANISH": "SPANISH",
+      "TAMIL": "TAMIL"
+    }
+  }
+}
